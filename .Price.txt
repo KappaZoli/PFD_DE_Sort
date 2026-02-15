@@ -1,0 +1,7 @@
+Prices( Must leave one SPACE after "=")
+A4= 50
+A3= 100
+A2= 150
+A1= 200
+A0= 250
+square_meter= 100
